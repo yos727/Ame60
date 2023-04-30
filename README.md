@@ -2,7 +2,7 @@
 a topmount 60% keyboard based off of Zlane's 'Kihon'. It is in the theme of the Vtuber Amelia Watson because I am a degen lol
 
 *DISCLAIMER*
-Use this at your own risk, I am making this open source because I want to spread this to other people, incase they want this. For information about screws and other stuff you can go check Zlan's post here https://github.com/Zlanee/Kihon. I just made a few adjustments, but most thigs should be the same.
+Use this at your own risk, I am making this open source because I want to spread this to other people, incase they want this. For information about screws and other stuff you can go check Zlane's post here https://github.com/Zlanee/Kihon. I just made a few adjustments, but most things should be the same.
 
 You can use any DZ60 or similar PCB which has the usb port on the left side of the case
 
