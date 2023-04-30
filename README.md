@@ -8,7 +8,7 @@ You can use any DZ60 or similar PCB which has the usb port on the left side of t
 
 If you want to make this WKL or HHKB, you can go download the top from Zlane's github post itself.
 
-Also the plate I provides in the file only supports tsangan 7 u bottom, you can find the other plate also in Zlane's post
+Also the plate I provides in the file only supports tsangan 7u bottom, you can find the other plate file in Zlane's post as well
 
 Any other questions, you can ask me in Discord - BenzBenz90#0720
 
