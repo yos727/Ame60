@@ -12,4 +12,4 @@ Any other questions, you can ask me in Discord - BenzBenz90#0720
 
 Lastly, thanks for looking at my post!
 
-(BTW, you read the name as 'a-me', not 'aim')
+(BTW, you read the name as 'a-mae', not 'aim')
