@@ -11,3 +11,5 @@ If you want to make this WKL or HHKB, you can go download the top from Zlane's g
 Any other questions, you can ask me in Discord - BenzBenz90#0720
 
 Lastly, thanks for looking at my post!
+
+(BTW, you read the name as 'a-me', not 'aim'
