@@ -18,7 +18,3 @@ Lastly, thanks for looking at my post!
 
 (BTW, you read the name as 'a-mae', not 'aim')
 
-![image](https://user-images.githubusercontent.com/116734336/236803419-9af964e6-b797-485a-abfd-edd710095ad5.png)
-![image](https://user-images.githubusercontent.com/116734336/236803452-ad624d1e-4fa5-4409-9952-40c10ea13569.png)
-![image](https://user-images.githubusercontent.com/116734336/236803650-3a5d7527-cc3c-41d8-b2f4-6b79685e3ce1.png)
-![image](https://user-images.githubusercontent.com/116734336/236803704-ad36cfd4-1fa7-479e-bf66-e32602ed8d4f.png)
