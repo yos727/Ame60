@@ -18,3 +18,6 @@ Lastly, thanks for looking at my post!
 
 (BTW, you read the name as 'a-mae', not 'aim')
 
+![image](https://user-images.githubusercontent.com/116734336/236810687-c6886b7a-15bb-4cee-8c72-17834a4eff04.png)
+![image](https://user-images.githubusercontent.com/116734336/236810868-d9606a7f-3b38-48d7-bc21-2333a29f46ff.png)
+![image](https://user-images.githubusercontent.com/116734336/236810968-fde588f1-46a1-4505-8213-c7e2b2fe7e12.png)
