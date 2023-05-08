@@ -12,6 +12,8 @@ Also the plate I provides in the file only supports tsangan 7u bottom, you can f
 
 Any other questions, you can ask me in Discord - BenzBenz90#0720
 
+I am also NOT responsible for any problems that you way encounter while purchasing this, you can try ask discords groups or dm me personally
+
 Lastly, thanks for looking at my post!
 
 (BTW, you read the name as 'a-mae', not 'aim')
