@@ -8,7 +8,7 @@ You can ONLY use the flex cut solderable DZ60 pcb for this board, or else the gu
 
 If you want to make this WKL or HHKB, you can go download the top from Zlane's github post itself.
 
-Also the plate I provides in the file only supports tsangan 7u bottom, you can find the other plate file in Zlane's post as well
+Also the plate I provides in the file only supports tsangan 7u bottom, you can find the other plate file in Zlane's post as well. (Although you will need to remove some of the mounting points on the plate yourself. It is fairly easy and I encourage to learn to use fusion or what other app you may use)
 
 Any other questions, you can ask me in Discord - BenzBenz90#0720
 
