@@ -6,7 +6,7 @@ Use this at your own risk, I am making this open source because I want to spread
 
 You can ONLY use the flex cut solderable DZ60 pcb for this board, or else the gummy o ring posts will intefere with the pcb.
 
-If you want to make this WKL or HHKB, you can go download the top from Zlane's github post itself.
+If you want to make this WKL or HHKB, I am sorry but you cant. Maybe dm me and i can try to make it if you want one
 
 Also the plate I provides in the file only supports tsangan 7u bottom, you can find the other plate file in Zlane's post as well. (Although you will need to remove some of the mounting points on the plate yourself. It is fairly easy and I encourage to learn to use fusion or what other app you may use)
 
